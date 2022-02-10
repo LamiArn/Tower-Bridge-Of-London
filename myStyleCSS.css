@@ -1,0 +1,226 @@
+/* body of homepage (index)*/
+#homepagebody{
+ position: relative;
+  background-image: url('IMG-20201111-WA0002.jpg');
+  background-repeat: no-repeat;
+  width: 90%;
+  margin:  auto;
+  background-size: cover ;
+  background-position: center;
+  overflow: auto;
+}
+
+  /* body of other pages (information,design)*/
+  /*(background:linear-gradient) to make the colour gradually from top to the bottom*/
+  body {
+  position: relative;
+  width: 90%;
+   margin:  auto;
+  background:linear-gradient(to bottom,#33ccff 0%, #000000 100%);
+  background-attachment: fixed;
+  background-position: center;
+  overflow: auto;
+  }
+
+  /*(vw) unit is used in all to make the font size relative with the  width of the viewport*/
+  
+  /* h1 of all pages*/
+  h1 {
+  margin-top: auto;
+  font-size:3vw;
+  padding: 1%;
+  text-align: center;
+  color: navy;
+  margin:auto;
+  width: 90%;
+  }
+
+  /* h2 of all pages*/
+  h2{
+  font-size:1.8vw;
+  padding: 1%;
+  text-align: center;
+  color: white;
+   margin:auto;
+   width: 90%;
+  }
+
+  /* p2 in homepage ( index)*/
+  #p2{
+  float: right;
+  width: 33%;
+  padding: 2%;
+  color: white;
+  margin-top: 8%;
+  margin-right: 4%;
+  font-weight: 900;
+  font-size:1.5vw;
+  }
+
+  /* p3 in homepage ( index)*/
+  #p3{
+  float: left;
+  width: 33%;
+  padding: 2%;
+  color: white;
+  margin-top: 8%;
+  margin-left: 4%;
+ font-weight: 900;
+ font-size:1.5vw;
+  }
+
+  /* h1 in page ( design)*/
+  #design-h1 {
+  margin-top: 1%;
+   font-size:2.8vw;
+  text-align: center;
+  color: navy;
+  }
+
+  /* h2  in page ( design)*/
+  #design-h2{
+   font-size:1.3vw;
+   text-align: center;
+  color: white;
+   margin-top: 1% ;
+   margin-left: 5%  ;
+   margin-right: 5% ;
+  }
+
+  /* p1 in page ( design)*/
+  #design-p1{
+  margin-top: 1%;
+  margin-left: 5%;
+  width: 90%;
+   font-size:1.3vw;
+  color: white;
+  font-weight: 900;
+  }
+
+  /* p2 in page ( design)*/
+  #design-p2{ 
+  color: white;
+  margin-top: 1%;
+  margin-left: 5%;
+   font-size:1.3vw;
+  font-weight: 900;
+  width: auto;
+  border: 15px solid #C0C0C0;
+  padding: 1%;
+  margin: 1%;
+  }
+
+  /* p3 in page ( design)*/
+  #design-p3{
+  color: white;
+  margin-top: 1%;
+  margin-left: 5%;
+   font-size:1.3vw;
+   font-weight: 900;
+  width: auto;
+  border: 15px solid #C0C0C0;
+  padding: 1%;
+  margin: 1%;
+  }
+
+  /*ul unordered list (homelinks) */
+  /*animation (homelinks) should complete one cycle in 4 seconds*/
+  #homelinks{ 
+  list-style-type: none;
+  overflow: hidden;
+  font-size:1.4vw;
+  font-weight: 900;
+  animation-name: homelinks;
+  animation-duration: 4s;
+  }
+  /*specify to change the style colour to be silver( #C0C0C0)  in percent of (50%) of 4 secound*/
+ @keyframes homelinks {
+  50% {
+    background-color: #C0C0C0;
+    }
+  }
+
+  /*li list item (Design,Information) in homepage ( index) take to other pages*/
+  #design-page, #information-page {
+  margin-top: 1%;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 1.5% 2%;
+  text-decoration: none;
+ border-right: 4px solid #bbb;
+  }
+
+
+  /* h1 in page ( information)*/
+  #h1-info {
+  margin-top: 1%;
+  font-size:3vw;
+  padding: 2%;
+  text-align: center;
+  color: navy;
+  margin: auto;
+  }
+
+  /* p in all pages*/
+  p {
+  font-size:1.5vw;
+  padding: 0px;
+  text-align: center;
+  color: white;
+   margin-top: 1%;
+   margin-left: 1%;
+   margin-right: 1%;
+  }
+
+  /* a link (Home) in pages(Information,design)*/
+  #homepagelink{ 
+ border-left: 3px solid #C0C0C0;
+  margin-top: 1%;
+  margin-left: 2%;
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 1.5% 1.5%;
+  text-decoration: none;
+  font-size:1.6vw;
+  font-weight: 900;
+  }
+
+  /* dt defines names in a description list */
+  dt {
+  color: white;
+  font-family: Helvetica, Charcoa , sans-serif;
+  text-shadow: 3px 3px 3px black;
+  font-size:1.6vw;
+  }
+
+  /* dd in a description list dt in all pages*/
+  dd{
+  color:white;
+  font-size:1.2vw;
+  }
+
+  /* ol ordered list and ul unordered list in all pages*/
+  ol, ul{
+  color:#F8F8FF;
+  font-size:0.9vw;
+  }
+
+  /* a links in information page*/
+  #hotel1, #hotel2 , #hotel3  {
+  color:#F8F8FF;
+  text-decoration: none;
+  font-size:1.2vw;
+  }
+
+  /* video in information page,float to make the video positioning in the right */
+  video{
+  float: right ; 
+  width: 45vw ;
+  border: 10px solid #C0C0C0;
+  margin-top: auto;
+  margin-bottom: 3%;
+  margin-right: 3%;
+  margin-left: 3%;
+  }

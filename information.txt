@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="myStyleCSS.css">
+<title>London Tower Bridge</title>
+</head>
+
+<body>
+<a id = "homepagelink" href="index.html">Home</a>
+<h1 id = "h1-info" >Information About London Tower Bridge</h1>
+<p>London Tower Bridge is located in the <strong><i>center of London,Tower Bridge Rd, London, SE1 2UP</i></strong> and  considered as one of transportation lines.</p>
+<p>Also, there is a walkway for tourists and locale to walk and enjoy watching the Tower Bridge from the bottom of the walkway.</p>
+<p>In Addition there are two horizontal corridors parallel to the bridge in the upper area of the two towers for walking, tourism and enjoy to watch the views from above.</p>
+
+<video controls >
+  <source src="vid-20201112-WA000111.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<ul>
+        <li>
+              <dl>
+               <dt><b>Address</b></dt>
+                <dd><strong>Tower Bridge Rd,<br> London,<br> England<br> SE1 2UP</strong>
+              </dd>
+            </dl>
+        </li>
+        <li>
+              <dl>
+               <dt><b>Tickets & Prices</b></dt>
+               <dd><strong>- Adult £10.60</strong></dd>
+               <dd><strong>- Child £5.30</strong></dd>
+            </dl>
+        </li>
+
+        <li><dl>
+               <dt><b>Contact</b></dt>
+               <dd><strong>- Telephone: +44 (0)20 7403 3761</strong></dd>
+               <dd><strong>- Email enquiries@towerbridge.org.uk</strong></dd>
+            </dl>  
+        </li>
+
+        <li><dl>
+               <dt><b>Nearest Hotel</b></dt>
+               <dd></dd> 
+               </dl></li>
+  </ul>
+        <ol type="I">
+       
+            <li><a id = "hotel1"  href = "https://www.radissonhotels.com/en-us/hotels/park-plaza-westminster-bridge-london">
+             <strong> Park Plaza Westminster Bridge London</strong></a></li>
+
+            <li><a id = "hotel2" href = "https://www.leonardo-hotels.com/leonardo-royal-hotel-london-tower-bridge">
+              <strong>Leonardo Royal London Tower Bridge</strong></a></li>
+
+            <li><a id = "hotel3" href = "https://www.shangri-la.com/en/london/shangrila/">
+              <strong>Shangri-La Hotel at The Shard, London</strong></a></li> 
+    
+        </ol>
+		  
+
+</body>
+</html>

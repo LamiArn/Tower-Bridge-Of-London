@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+
+<title>London Tower Bridge</title>
+<meta name="description"
+content="Page About the bridge of london" />
+<meta name="robots"
+content="nofollow" />
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="myStyleCSS.css">
+
+</head>
+<body id="homepagebody">
+
+<ul id="homelinks">
+  
+  <li><a id = "design-page" href="design.html">Design</a></li>
+  <li><a id = "information-page" href="information.html">Information</a></li>
+</ul>
+
+<h1>London Tower Bridge</h1>
+
+<h2><span style="background-color:navy"> London Tower Bridge is one of the famous historical monuments in London,
+ located on the north bank of the <b>Thames River</b> in central London.<br>
+ Which starts construction in <strong><i>1886</i></strong> and
+ officially opened on<strong> <i>30<sup>th</sup> of June 1894</i></strong> by the <b>Prince and Princess of Wales.</b>
+</span></h2>
+
+<p id="p2"><span style="background-color:navy"> London Tower Bridge conseder as one of the bridges, that are conten from suspended and mobile bridges at the same time.
+The bridge is connected by two large towers, in the upper area of the two towers there are two horizontal lanes parallel to the bridge from the bottom of them, for walking and tourism.
+</span></p>  
+  
+<p id="p3"><span style="background-color:navy"> Also, there is a walkway for tourists and locale to walk and enjoy watching the Tower Bridge from the bottom of the walkway.<br>
+In Addition there are two horizontal corridors parallel to the bridge in the upper area of the two towers for walking, tourism and enjoy to watch the views from above.
+</span></p>
+
+
+</body>
+</html>

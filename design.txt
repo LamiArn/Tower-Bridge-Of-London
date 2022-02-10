@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<link rel="stylesheet" href="myStyleCSS.css">
+<title>London Tower Bridge</title>
+</head>
+
+<body>
+<a id = "homepagelink" href="index.html">Home</a>
+
+<h1 id="design-h1">Design & Structure of the tower</h1>
+
+<h2 id="design-h2"> The White Tower is 90 feet (27 m) high Its dividers shift from 15 feet (4.5 m) 
+thick at the base to just about 11 feet (3.3 m) in the upper parts.
+ Over the bulwarks rise four turrets: three of them are square,
+ however the one on the upper east is roundabout, to oblige a twisting flight of stairs.
+ This turret was quickly utilized as the main illustrious observatory in the rule of Charles II. </h2>
+
+<p id="design-p1"> As the setting for key recorded occasions in European history: 
+The Tower has been the setting for probably the most groundbreaking occasions in European and British History.
+ Its function as a phase whereupon history has been established is one of the key components 
+which has contributed towards the Tower's status as a notable structure. Apparently, 
+the main structure of the Norman Conquest, the White Tower represented the might and life span of the new request.
+ The detainments in the Tower of Edward V and his more youthful sibling in the fifteenth century,
+ and afterward, in the sixteenth century, of four English sovereigns, three of them executed on Tower Green – Anne Boleyn,
+ Catherine Howard and Jane Gray – with just Elizabeth I getting away, molded English history.
+ The Tower additionally helped shape the narrative of the Reformation in England,
+ as both Catholic and Protestant detainees (those that endure) recorded their encounters and characterized
+ the Tower as a position of torment and execution.</p>
+
+<p id="design-p2">We can see how thay used trademark adjusted curves particularly in the church.
+ Also, we can found it in the arcade, and the vaulted nave and walkways,
+ where separately barrel and crotch vaulting was utilized. The nave is flanked by two paths,
+ which are isolated by sections that structure an arcade which makes the wandering.
+ The sections of the arcade are inverse the pilasters along the external dividers of the passageways.
+ Above is an exhibition arcade which allows in more light into the space,
+ however isn't a clerestory as in it is over the rooftop. 
+</p>  
+  
+<p id="design-p3">The characterizing component of this space is the plan of the sections' capitals.
+ While from the start the plan is uniform, further assessment shows that the capitals are very shifted.
+ Some are block-molded, some have volutes, and others are pad capitals.
+ However, what these capitals, spare three, share for all intents and purpose is the
+ "uncommon adornment of Tau crosses, or T-molded projections".
+ These crosses are suggestive of plans basic to Anglo-Norman engineering of this period.
+</p>
+
+
+
+</body>
+</html>
